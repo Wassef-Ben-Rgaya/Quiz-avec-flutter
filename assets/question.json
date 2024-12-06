@@ -1,0 +1,212 @@
+
+[ {
+  "id": 1,
+  "question": "La balise HTML utilisée pour créer une liste non ordonnée est <ul>. ?",
+  "options": [
+    "Vrai",
+    "Faux"
+  ],
+  "answer": 0
+},
+{
+  "id": 2,
+  "question": "Quelle propriété CSS est utilisée pour définir la couleur de fond d'un élément ?",
+  "options": [
+    "color",
+    "background-color",
+    "font-color",
+    "background"
+  ],
+  "answer": 1
+},
+{
+  "id": 3,
+  "question": "Quel événement JavaScript est déclenché lorsqu'un utilisateur clique sur un élément HTML ?",
+  "options": [
+    "onchange",
+    "onsubmit",
+    "onclick",
+    "onmouseover"
+  ],
+  "answer": 2
+},
+{
+  "id": 4,
+  "question": "Quelle balise HTML est utilisée pour inclure du code JavaScript dans un document HTML ?",
+  "options": [
+    "<js>",
+    "<javascript>",
+    "<code>",
+    "<script>"
+  ],
+  "answer": 3
+},
+{
+  "id": 5,
+  "question": "Quelle unité de mesure CSS est relative à la taille de la police de caractères de l'élément parent ?",
+  "options": [
+    "em",
+    "px",
+    "%",
+    "rem"
+  ],
+  "answer": 0
+},
+{
+  "id": 6,
+  "question": "La fonction JavaScript 'console.log()' est utilisée pour imprimer du texte dans la console du navigateur.",
+  "options": [
+    "Vrai",
+    "Faux"
+  ],
+  "answer": 0
+},
+{
+  "id": 7,
+  "question": "Quel attribut HTML est utilisé pour spécifier l'URL d'une image ?",
+  "options": [
+    "src",
+    "href",
+    "link",
+    "url"
+  ],
+  "answer": 0
+},
+{
+  "id": 8,
+  "question": "Quelle propriété CSS est utilisée pour définir la taille de la police de caractères ?",
+  "options": [
+    "text-size",
+    "size",
+    "font",
+    "font-size"
+  ],
+  "answer": 3
+},
+{
+  "id": 9,
+  "question": "Quel opérateur JavaScript est utilisé pour concaténer des chaînes de caractères ?",
+  "options": [
+    "+",
+    "*",
+    "/",
+    "-"
+  ],
+  "answer": 0
+},
+{
+  "id": 10,
+  "question": "Quelle balise HTML est utilisée pour créer un lien hypertexte ?",
+  "options": [
+    "<link>",
+    "<a>",
+    "<href>",
+    "<url>"
+  ],
+  "answer": 1
+},
+{
+  "id": 11,
+  "question": "La propriété CSS 'align: center;' est utilisée pour centrer un élément horizontalement.",
+  "options": [
+    "Vrai",
+    "Faux"
+  ],
+  "answer": 1
+},
+{
+  "id": 12,
+  "question": "Quelle méthode JavaScript est utilisée pour ajouter un élément à la fin d'un tableau ?",
+  "options": [
+    "add()",
+    "append()",
+    "insert()",
+    "push()"
+  ],
+  "answer": 3
+},
+{
+  "id": 13,
+  "question": "Quel attribut HTML est utilisé pour spécifier le texte alternatif d'une image ?",
+  "options": [
+    "title",
+    "description",
+    "alt",
+    "caption"
+  ],
+  "answer": 2
+},
+{
+  "id": 14,
+  "question": "La propriété CSS 'margin' est utilisée pour spécifier l'espacement entre les éléments.",
+  "options": [
+    "Vrai",
+    "Faux"
+  ],
+  "answer": 0
+},
+{
+  "id": 15,
+  "question": "Quelle fonction JavaScript est utilisée pour convertir une chaîne de caractères en entier ?",
+  "options": [
+    "parseInt()",
+    "convertToInt()",
+    "toInteger()",
+    "stringToNumber()"
+  ],
+  "answer": 0
+},
+{
+  "id": 16,
+  "question": "Quelle balise HTML est utilisée pour créer une ligne horizontale ?",
+  "options": [
+    "<line>",
+    "<hr>",
+    "<br>",
+    "<hrz>"
+  ],
+  "answer": 1
+},
+{
+  "id": 17,
+  "question": "Quelle propriété CSS est utilisée pour définir la couleur du texte ?",
+  "options": [
+    "font-color",
+    "text-color",
+    "font",
+    "color"
+  ],
+  "answer": 3
+},
+{
+  "id": 18,
+  "question": "La méthode JavaScript 'deleteLast()' est utilisée pour supprimer le dernier élément d'un tableau ",
+  "options": [
+    "Vrai",
+    "Faux"
+  ],
+  "answer": 2
+},
+{
+  "id": 19,
+  "question": "Quel élément HTML est utilisé pour créer un formulaire ?",
+  "options": [
+    "<form>",
+    "<input>",
+    "<field>",
+    "<submit>"
+  ],
+  "answer": 0
+},
+{
+  "id": 20,
+  "question": "Quelle propriété CSS est utilisée pour afficher un élément en ligne avec les autres éléments ?",
+  "options": [
+    "display: inline;",
+    "position: inline;",
+    "align: inline;",
+    "layout: inline;"
+  ],
+  "answer": 0
+}
+]
